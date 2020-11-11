@@ -1,5 +1,7 @@
-package org.hbrs.se.ws20.uebung1.control;
+package test;
 
+import org.hbrs.se.ws20.uebung1.control.GermanTranslator;
+import org.hbrs.se.ws20.uebung1.control.Translator;
 import org.hbrs.se.ws20.uebung1.control.factory.Factory;
 import org.junit.Before;
 import org.junit.jupiter.api.BeforeEach;
