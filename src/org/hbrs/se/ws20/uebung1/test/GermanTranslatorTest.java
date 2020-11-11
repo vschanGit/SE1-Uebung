@@ -1,14 +1,11 @@
-package test;
+package org.hbrs.se.ws20.uebung1.test;
 
 import org.hbrs.se.ws20.uebung1.control.GermanTranslator;
 import org.hbrs.se.ws20.uebung1.control.Translator;
 import org.hbrs.se.ws20.uebung1.control.factory.Factory;
-import org.junit.Before;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.jupiter.api.Assertions.*;
 
 class GermanTranslatorTest {
 
